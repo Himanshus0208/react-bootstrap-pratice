@@ -1,1 +1,1 @@
-some sample push
+const x = {'some sample push': 'local changes'}
